@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1678737556 source:c:\users\lord\desktop\cycle\transient\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"func.h"
+
+1678737689 c:\users\lord\desktop\cycle\transient\func.h
+	<stdbool.h>
+
+1678737665 source:c:\users\lord\desktop\cycle\transient\func.c
+	"func.h"
+	<stdbool.h>
+
+1678982276 source:c:\users\lord\desktop\transient\transient\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"func.h"
+
+1678978579 c:\users\lord\desktop\transient\transient\func.h
+	<stdbool.h>
+
+1678982730 source:c:\users\lord\desktop\transient\transient\func.c
+	"func.h"
+	<stdbool.h>
+	<stdlib.h>
+
